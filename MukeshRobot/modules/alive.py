@@ -10,11 +10,11 @@ from telethon import __version__ as tver
 from MukeshRobot import SUPPORT_CHAT, pbot,BOT_USERNAME, OWNER_ID,BOT_NAME,START_IMG
 
 PHOTO = [
-    "https://telegra.ph/file/d2a23fbe48129a7957887.jpg",
-    "https://telegra.ph/file/ddf30888de58d77911ee1.jpg",
-    "https://telegra.ph/file/268d66cad42dc92ec65ca.jpg",
-    "https://telegra.ph/file/13a0cbbff8f429e2c59ee.jpg",
-    "https://telegra.ph/file/bdfd86195221e979e6b20.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRulEwcIU_3dnjp8veRTL9no6wisVvI-wiPoCDXYoJtB8yU_ujMO4uKveS&s=10",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvdkDQrK6o0NeFHBK3dqwdAgAn1RAl3LtJXEQb5rONK4D8-lXltbw3kThk&s=10",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0zoRen_24ztSevCHvuiybi_1XnxJMqChO7XiMk-IiwIVVuWsjvqpmuOU&s=10",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppy58UFYFmrcUlkUsQdDuOShGaONiC1eMaA&usqp=CAU",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzYeuKmKwX_MFydqHVyuu1rByyVIbI4gcF_A&usqp=CAU",
 ]
 
 Mukesh = [
